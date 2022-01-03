@@ -5,10 +5,14 @@
 ```
 In terminal, cd, changes the directory in the file path.
 ```
+Cd is used to change directory. which means you can go from path to path
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
+mkdir makes a new directory in 
+```
+
 In terminal, mkdir, makes a new directory makes a new folder
 ```
 
